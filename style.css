@@ -66,13 +66,15 @@
   #footer {
     background-image: linear-gradient(
       to right,
-      rgb(15, 51, 86),
-      rgb(0, 0, 0),
-      rgb(15, 51, 86)
+      rgb(90, 99, 38),
+      rgb(166, 182, 75),
+      rgb(90, 99, 38)
     );
-    color: rgb(109, 161, 150);
+    color: rgb(4, 49, 39);
     text-align: center;
-    /* font-size: small; */
     width: 100vw;
+    position: relative;
+    margin-top: 87px;
+    padding: 10px 0;
   }
 }
